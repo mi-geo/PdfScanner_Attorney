@@ -1,0 +1,6 @@
+{
+  "county name": "string",
+  "population": "integer",
+  "active attorneys": "integer",
+  "ratio": "string"
+}
